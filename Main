@@ -1,0 +1,7 @@
+values = 20, 30, 50, 60, 70, 80, 90, 110;
+
+
+sum = 0
+For i in values:
+  sum+=values[i]
+  print sum
